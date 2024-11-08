@@ -10,7 +10,7 @@ import { Link, router } from "expo-router" //para navegar entre ventanas
 
 import { useContext, useState } from "react";
 import { MyContext } from "./Context";
-
+//pancon queso
 //https://docs.expo.dev/develop/user-interface/fonts/
 //https://reactsvgicons.com/react-svg-icons-guide
 
